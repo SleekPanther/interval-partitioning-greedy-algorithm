@@ -7,12 +7,18 @@ Java Implementation of the Interval Partitioning greedy algorithm
 - Times are integers. 3-digits for the morning (9AM = 900), 4-digits for afternoons (10:30 = 1030)
 - Uses 24-hour clock (2:30 PM is 14:30)
 - &nbsp;
-- Enter the Lectures/Jobs in `IntvlPart` constructor
+- Enter the Lectures/Jobs in `IntvlPart` constructor  
+Sorted by start time later, **can be in any order**
 - Run the program to view optimal schedule
+- **Multiple optimal solutions may be found** depending on the order lectures were added in the constructor
 
 ### Output
 1. Prints the room where a lecture is schedued when it is scheduled
 2. A List of all the rooms and the lectures in that room
+
+
+## Example Lectures (Created in Constructor)
+![lectures](https://cloud.githubusercontent.com/assets/15304528/22864246/f68be9e4-f11b-11e6-865a-02b3bc956c59.png)
 
 <br>
 ## Pseudocode
