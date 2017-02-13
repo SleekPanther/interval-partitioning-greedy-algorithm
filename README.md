@@ -15,6 +15,7 @@ Sorted by start time later, **can be in any order**
 ### Output
 1. Prints the room where a lecture is schedued when it is scheduled
 2. A List of all the rooms and the lectures in that room
+3. Output is printed to the screen as well as written to a file `output.txt`
 
 
 ## Example Lectures (Created in Constructor)
