@@ -21,12 +21,10 @@ Sorted by start time later, **can be in any order**
 ## Example Lectures (Created in Constructor)  
 ![lectures](pictures/lectures.png)
 
-<br>
 ## Pseudocode
 
 ![preudocode](pictures/pseudocode.png)
 
-<br>
 ## Pseudocode (detailed with runtime)
 
 ![preudocode runtime](pictures/pseudocode+runtime.png)
