@@ -1,4 +1,4 @@
-# Jave Interval Partitioning Greedy Algorithm
+# Java Interval Partitioning Greedy Algorithm
 Java Implementation of the Interval Partitioning greedy algorithm  
 **Given a set of lectures (jobs) with start & end times, schedule all lectures to use the fewest rooms (resources)**
 
@@ -18,15 +18,17 @@ Sorted by start time later, **can be in any order**
 3. Output is printed to the screen as well as written to a file `output.txt`
 
 
-## Example Lectures (Created in Constructor)
-![lectures](https://cloud.githubusercontent.com/assets/15304528/22864246/f68be9e4-f11b-11e6-865a-02b3bc956c59.png)
+## Example Lectures (Created in Constructor)  
+![lectures](pictures/lectures.png)
 
 <br>
 ## Pseudocode
-![preudocode](https://cloud.githubusercontent.com/assets/15304528/22863520/a5cffba0-f10f-11e6-9400-30508bb51208.png)
+
+![preudocode](pictures/pseudocode.png)
 
 <br>
-## Pseudocode (detailed with untime)
-![preudocode runtime](https://cloud.githubusercontent.com/assets/15304528/22863521/a731a570-f10f-11e6-99aa-001b80e5f5f1.png)
+## Pseudocode (detailed with runtime)
+
+![preudocode runtime](pictures/pseudocode+runtime.png)
 
 ## Code Details / Notes
