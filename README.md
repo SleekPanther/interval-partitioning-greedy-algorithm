@@ -23,10 +23,10 @@ Sorted by start time later, **can be in any order**
 
 ## Pseudocode
 
-![preudocode](pictures/pseudocode.png)
+![pseudocode](pictures/pseudocode.png)
 
 ## Pseudocode (detailed with runtime)
 
-![preudocode runtime](pictures/pseudocode+runtime.png)
+![pseudocode runtime](pictures/pseudocode+runtime.png)
 
 ## Code Details / Notes
