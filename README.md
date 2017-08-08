@@ -25,8 +25,6 @@ Sorted by start time later, **can be in any order**
 
 ![pseudocode](pictures/pseudocode.png)
 
-## Pseudocode (detailed with runtime)
+## Pseudocode
 
 ![pseudocode runtime](pictures/pseudocode+runtime.png)
-
-## Code Details / Notes
